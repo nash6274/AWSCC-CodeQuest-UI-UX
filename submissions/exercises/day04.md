@@ -9,6 +9,19 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 -   Link to your own file of **"Week 1 [Day 4] : Activity"**
 -   A screenshot of your final activity output _(optional)_
 
-Ready to include your output for **Day 4**? Let the customization begin! 🚀✨
+**https://www.figma.com/file/5m6ThPeUzSktyR71e1FANb/Week-1-(day-4)-%3A-Design-Components-(Community)?type=design&node-id=4%3A167&mode=design&t=nyRfEFYeuILACDh5-1**
 
-<!-- You may now delete and modify the content of this file -->
+**Exercise One:**
+
+![EXERCISE ONE](<../../images/Exercise One.png>)
+
+**Exercise Two:**
+
+![EXERCISE TWO](<../../images/Exercise Two.png>)
+
+**Fix me:**
+
+
+
+![FIX ME](<../../images/FIX ME.png>)
+
