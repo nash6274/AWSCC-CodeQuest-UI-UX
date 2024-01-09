@@ -10,5 +10,5 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 
 **https://www.figma.com/file/meuLmF5mkUiS5LchruSs7m/Week-1%3A-Low-Fidelity-Layout-(Community)?type=design&node-id=0%3A1&mode=design&t=0BE9eiHNtsejUetP-1**
 
-![wireframeclone](<../../images/Screenshot 2023-12-10 164052.png>)
+![lo-fi](../../images/lo-fi.png)
 
